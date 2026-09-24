@@ -1,6 +1,0 @@
-better calendar and time ui, no entering numbers manually
-not being able to choose a time and date prior to today
-links of the song being only spotify or youtube no other links
-duration of the song to be automatically inputted from the link of the song "no need for user input"
-add as a third step of creating a perfomrance/gig, that the manager can for each song select which musicians are gonna be performing a song because not every song will have every musician in it, add a select app checkbox to make it easier
-roles to be an enumeration in the database, start with having the normal musical roles, if there is any more roles, the manager can have a proper crude over the roles, when a musician gets to the "join band" page, the input for the roles is a drop down list that shows nothing until the user inputs a band code, the verification of the band code doesnt start until the user inputs the proper lenght of the code "which is 9", when the band is verified, he gets the drop down list of roles of that band
